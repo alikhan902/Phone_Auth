@@ -1,3 +1,4 @@
+gunicorn
 asgiref==3.9.1
 Django==5.2.4
 django-phonenumber-field==8.1.0
