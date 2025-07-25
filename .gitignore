@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.mo
+db.sqlite3
+media/
+staticfiles/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Migrations (если хочешь исключить)
+# **/migrations/
+# !*/migrations/__init__.py
+
+# Coverage reports
+htmlcov/
+.coverage
+.tox/
+
+# Docker
+*.pid
+*.tgz
+*.tar.gz
+*.bak
+
+# pytest
+.cache/
+
+# MyPy
+.mypy_cache/
+
+# pip-tools
+*.txt~
